@@ -2,7 +2,7 @@ function grade(score)
 {
     if(score>=90)
     {
-        console.log("A");
+        console.log("A grade");
     }    
     else if(score>=80)
     {
